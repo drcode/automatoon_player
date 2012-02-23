@@ -1,4 +1,4 @@
-automatoon_player={}
+automatoon_player={} #
 do ->
         browser_android=((navigator.userAgent.search 'Android')!=-1)
         browser_ie=$.browser.msie?
